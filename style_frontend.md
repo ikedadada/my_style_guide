@@ -27,6 +27,8 @@ Its goal is to ensure that AI agents can generate frontend code that is structur
 ## 🧠 Naming Conventions
 
 - **Directories**: lowercase and plural (e.g., `components`, `pages`, `utils`)
+- **Component Directories**: Use the same name and case as the component (PascalCase).
+  - Example: `UserCard/UserCard.tsx`,`UserCard/index.tsx`
 - **Component files**: `PascalCase` (e.g., `UserCard.tsx`)
 - **Utility and config files**: `camelCase` or lowercase (e.g., `excelUtils.ts`, `vite.config.ts`)
 - **Constants**: `SCREAMING_SNAKE_CASE`
