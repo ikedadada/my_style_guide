@@ -86,11 +86,10 @@ It exists to enable AI agents to write Python code that is stylistically and str
 
 ## 🧪 Testing Approach
 
-- Use example-driven or manual testing unless full automation is justified.
-- Prefer clarity and reproducibility in test runs over framework complexity.
-- Use `print()` or logging for verification in small scripts.
-- Write self-contained examples that can act as sanity checks.
-- Minimize setup; avoid test scaffolding unless it adds value.
+- **Automate tests whenever feasible**, following the common guideline of "Automate Everything Repeatable".
+- Use `pytest` or similar frameworks for **unit tests** and **integration tests**.
+- Small scripts may include example-based verification, but this should **supplement**, not replace, automated tests.
+- Keep test setup lightweight and reproducible.
 
 ---
 

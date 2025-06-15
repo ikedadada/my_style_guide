@@ -37,8 +37,11 @@ Language-specific and domain-specific rules will be defined separately.
 - **Comments Should Capture Intent**  
   Focus comments on _why_ something is implemented a certain way, not _what_ it does—code should explain the "what".
 
-- **Readable, Modular Logic**  
+- **Readable, Modular Logic**
   Keep nesting shallow. If logic grows complex, split it into helper functions. Functions should aim to be side-effect free.
+
+- **Prefer Early Returns**
+  Exit functions early when conditions are unmet to avoid deep nesting and improve clarity.
 
 - **Avoid Hardcoded Constants**  
   Extract configuration values (paths, thresholds, credentials, etc.) into a separate settings or config file.
