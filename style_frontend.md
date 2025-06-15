@@ -47,6 +47,23 @@ Its goal is to ensure that AI agents can generate frontend code that is structur
 
 ---
 
+### 🔖 Component Directory Structure
+
+Each component should reside in its own directory with the following structure:
+
+```
+[ComponentName]/
+├── index.ts                  # Barrel export for the component
+├── [ComponentName].tsx       # Main React component
+├── [hooks].ts                # Custom hooks specific to the component
+├── [ComponentName].stories.ts # Storybook configuration
+├── [ComponentName].test.ts   # Component test
+└── [hooks].test.ts           # Hook test
+```
+
+- Keep hooks and their tests inside the component folder when they are tightly coupled.
+- Use this pattern consistently across all feature-level and shared components.
+
 ## 🎨 Styling
 
 - **Use utility-first CSS (e.g., Tailwind CSS)** as the main styling approach.
