@@ -2,7 +2,7 @@
 
 ## 🎯 Purpose
 
-This style guide defines a set of Java development principles that reflect my personal coding style.  
+This style guide defines a set of Java development principles that reflect my personal coding style.
 Its purpose is to enable AI agents to generate Java code that is stylistically consistent with the way I write code, regardless of the framework or domain.
 
 ---

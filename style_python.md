@@ -2,7 +2,7 @@
 
 ## 🎯 Purpose
 
-This guide defines the core Python coding principles I follow, abstracted across domains.  
+This guide defines the core Python coding principles I follow, abstracted across domains.
 It exists to enable AI agents to write Python code that is stylistically and structurally consistent with my personal preferences.
 
 ---
@@ -105,5 +105,5 @@ It exists to enable AI agents to write Python code that is stylistically and str
 
 ## ⛳ Summary
 
-This guide defines my Python coding philosophy: clear, modular, minimal, and explicit.  
+This guide defines my Python coding philosophy: clear, modular, minimal, and explicit.
 AI agents should follow this structure to ensure their output aligns naturally with code I would write.

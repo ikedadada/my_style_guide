@@ -101,7 +101,7 @@ This guide defines shared TypeScript coding conventions to ensure AI agents can 
 
 ## 🧭 Summary
 
-This guide provides the foundation for AI-assisted TypeScript development that mirrors my coding standards:  
+This guide provides the foundation for AI-assisted TypeScript development that mirrors my coding standards:
 **modular, type-safe, explicit, and clean.**
 
 Language-specific quirks and framework preferences should be layered on top of this core foundation as needed.
