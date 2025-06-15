@@ -2,7 +2,7 @@
 
 ## 🎯 Purpose
 
-This guide defines Go-specific coding conventions to ensure that AI agents can produce code indistinguishable in style, structure, and intent from my own Go programming habits.  
+This guide defines Go-specific coding conventions to ensure that AI agents can produce code indistinguishable in style, structure, and intent from my own Go programming habits.
 It reflects personal preferences regarding naming, file structure, idiomatic patterns, error handling, and test philosophy.
 
 ---
@@ -83,5 +83,5 @@ It reflects personal preferences regarding naming, file structure, idiomatic pat
 
 ## ⛳ Summary
 
-This guide represents the stylistic and structural norms I follow when writing Go.  
+This guide represents the stylistic and structural norms I follow when writing Go.
 AI agents following this guide should be able to produce Go code that is idiomatic, minimalistic, modular, and highly readable — in line with my personal engineering standards.

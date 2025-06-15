@@ -2,7 +2,7 @@
 
 ## 🎯 Purpose
 
-This guide defines a set of frontend development principles derived from my actual coding style.  
+This guide defines a set of frontend development principles derived from my actual coding style.
 Its goal is to ensure that AI agents can generate frontend code that is structurally and stylistically consistent with my own.
 
 ---
